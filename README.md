@@ -29,4 +29,7 @@ Prevew of Orders:
 | ... | ... | ... | ... | ... | ... | ... |
 999861	|452584	|Yes	|457	 |$2,285.00 	 |$1,142.50 	|3/20/2020
 
-There are some inconsistencies within the data, therefore some clean up is needed. For example, the revenue and cost columns in Orders are consistent. Some are formatted as currency and some are plain numbers. Let's convert all of these values to currency for simplicity. 
+There are some inconsistencies within the data, therefore some clean up is needed. For example, the **revenue** and **cost** columns in Orders are consistent. Some are formatted as currency and some are plain numbers. Let's convert all of these values to currency for simplicity. 
+
+
+![In PowerBI, we can do this easily by choosing Currency as the format](/Images/ChangingtoCurrency.png "Updating the format from General to Currency")
