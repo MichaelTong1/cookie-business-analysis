@@ -33,3 +33,9 @@ There are some inconsistencies within the data, therefore some clean up is neede
 
 
 ![In PowerBI, we can do this easily by choosing Currency as the format](/Images/ChangingtoCurrency.png "Updating the format from General to Currency")
+
+### Feb 26 2024
+
+Today I noticed that the country column had inconsistent data. There were some labeled "United States" and some labeled "US." For simplicity, let's transform all of the data so it says United States. To ensure that any future data will be consistent, we will need to make this change in the front-end, whether it's a POS (point of sales) system, a web application, or even human error. Placing data validation is important to ensure consistent and accurate data. 
+
+![If we go into the Home tab --> Transform Data, then we can make this change here.](/Images/ConvertingUS.png "Converting US to United States")
