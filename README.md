@@ -39,3 +39,9 @@ There are some inconsistencies within the data, therefore some clean up is neede
 Today I noticed that the country column had inconsistent data. There were some labeled "United States" and some labeled "US." For simplicity, let's transform all of the data so it says United States. To ensure that any future data will be consistent, we will need to make this change in the front-end, whether it's a POS (point of sales) system, a web application, or even human error. Placing data validation is important to ensure consistent and accurate data. 
 
 ![If we go into the Home tab --> Transform Data, then we can make this change here.](/Images/ConvertingUS.png "Converting US to United States")
+
+### Feb 28 2024 
+
+After a few days of working on the visual, I have decided to present two pages. One is the home page where we can see the raw data. The second is the dashboard where we can see the visuals. 
+
+![Here we can see the data page](/Images/Visual-Version1.png "Data Page")
