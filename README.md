@@ -1,5 +1,5 @@
 # cookie-business-analysis
-Using PowerBI, analyzing a cookie business using their order invoices
+Using PowerBI, analyze a cookie business using their order invoices
 
 ### Feb 23 2024
 
@@ -45,3 +45,7 @@ Today I noticed that the country column had inconsistent data. There were some l
 After a few days of working on the visual, I have decided to present two pages. One is the home page where we can see the raw data. The second is the dashboard where we can see the visuals. 
 
 ![Here we can see the data page](/Images/Visual-Version1.png "Data Page")
+
+### Mar 2 2024
+
+Today I made a few more edits and added in two buttons. This will mimic the look and feel of two different pages in a report. There is the raw data in the Data page and the reports in the Dashboard page. 
